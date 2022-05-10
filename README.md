@@ -6,7 +6,7 @@
 system function : Implementation of image classification neural network through basic deep learning model.
                   The dataset is still undecided.     
 
-Development Schedule
+*Development Schedule
   *week1(05/10~5/17)
   : Reference research & individual study for basic deep learning     
         
