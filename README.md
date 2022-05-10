@@ -23,5 +23,5 @@ system function : Implementation of image classification neural network through 
   * Because it is a basic model implementation, everyone participates in study, development, and presentation     
 
 * references
-*  :밑바닥부터 시작하는 딥러닝 1(한빛), AlexNet, VGG, Inception, Resnet, YoloV1     
+  * :밑바닥부터 시작하는 딥러닝 1(한빛), AlexNet, VGG, Inception, Resnet, YoloV1     
       
