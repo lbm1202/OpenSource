@@ -1,6 +1,6 @@
 # OpenSource
 # OpenSource_mini_team_project     
-
+# ex
 제안 배경 : 조원 3명 모두 딥러닝에 관심이 있었고, 공부와 병행하여 간단한 image classification model을 구현에 도전해 보기로 하였다.     
 
 system function : Implementation of image classification neural network through basic deep learning model.
