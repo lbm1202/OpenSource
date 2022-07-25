@@ -92,8 +92,7 @@ public class Neuron{
 
   public void Update_Commit(){
     int index = 0;
-    while (index < this.Input_Length)
-    {
+    while (index < this.Input_Length){
       this.Weight[index] = this.Update_Weight[index];
       checked { ++index; }
     }

@@ -1,7 +1,6 @@
 ﻿using System;
 
-public class ANN
-{
+public class ANN{
   private Full_Connected_NN FCNN;
   public double[] Result;
 
